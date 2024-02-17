@@ -10,14 +10,16 @@ const config = {
   tagline: 'Guia oficial completa y definitiva de Chat Buho',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
-  url: 'https://documentacion.chat.buho.la',
+  // pagina donde se va subir la documentacion
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+
+
+  // nombre del repositorio donde se va subir la documentacion'
   baseUrl: '/documentacion/',
 
   // GitHub pages deployment config.
-  organizationName: 'chatbuho',
+  organizationName: 'BryanCoronado',
   projectName: 'documentacion',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
@@ -63,7 +65,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://buho.la/images/chat/chat-buho.svg',
+          src: 'https://i.ibb.co/Sxv4YXF/logo-cat-code.png',
         },
         items: [
           // {

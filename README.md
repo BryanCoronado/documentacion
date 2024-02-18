@@ -1,4 +1,4 @@
-# Documentación Chat Buho
+# Documentación Cat Code
 
 Repositorio de documentación de nuestro sistema omnicanal [Chat Buho](https://buho.la/chat/). Aquí encontrarás guías y tutoriales para maximizar el uso de nuestra plataforma. 
 
